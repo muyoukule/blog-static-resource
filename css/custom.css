@@ -242,7 +242,6 @@
 
 #recent-posts>.recent-post-item {
   backdrop-filter: blur(5px) saturate(150%);
-  height: 14.8em;
 }
 
 /* 文章页H1-H6图标样式效果 */
