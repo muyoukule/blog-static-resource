@@ -114,7 +114,6 @@
 
 [data-theme="dark"] #aside-content>.card-widget.card-info {
   background: rgba(25, 25, 25, 0.88);
-  ;
 }
 
 #aside-content>.card-widget.card-info>#card-info-btn {
@@ -220,24 +219,6 @@
   opacity: 1;
   line-height: 1.5;
   transition: all .3s
-}
-
-.newPost-left,
-.newPost-right {
-  position: absolute;
-  top: 0;
-  color: white;
-  padding: 0 15px;
-  background-color: #6C52B5;
-  border-radius: 0 0 10px 10px;
-}
-
-.newPost-left {
-  left: 15px;
-}
-
-.newPost-right {
-  right: 15px;
 }
 
 #recent-posts>.recent-post-item {
